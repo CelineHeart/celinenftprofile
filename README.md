@@ -1,4 +1,4 @@
-# celine nft profile picture
+# celine nft profile pictures
 
 - 0x63656c696e65 (1).jpg
 - 0x63656c696e65 (2).jpg
